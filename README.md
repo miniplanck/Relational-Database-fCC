@@ -10,4 +10,7 @@ https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-
 - [World Cup Database](
 https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database
 );
+- [Salon Appointment Scheduler](
+https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
+);
 
