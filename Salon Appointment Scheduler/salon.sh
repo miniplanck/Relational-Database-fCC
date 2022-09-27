@@ -30,7 +30,7 @@ SERVICES_MENU(){
   read SERVICE_ID_SELECTED
   #if input not number
 
-  if [[ ! $SERVICE_ID_SELECTED =~ ^[0-9]*$ ]]
+  if ! [[ $SERVICE_ID_SELECTED =~ ^[0-9]*$ ]]
   then
     MAIN_MENU "Invalid service. Please, try again."
   else
