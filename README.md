@@ -16,4 +16,7 @@ https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment
 - [Periodic Table Database](
 https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database
 );
+- [Number Guessing Game](
+https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
+);
 
