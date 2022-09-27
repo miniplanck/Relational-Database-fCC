@@ -13,4 +13,7 @@ https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-databas
 - [Salon Appointment Scheduler](
 https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
 );
+- [Periodic Table Database](
+https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database
+);
 
