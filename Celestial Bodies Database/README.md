@@ -29,4 +29,4 @@ In this project, we are asked to build a database with PostgreSQL such that:
 
 ### Solution:
 
-The solution to the preivous problem is in the provided file. By using `psql -U postgres < universe.sql`, the database can be rebuilt so as to check that it aggrees with the specifications.
+The solution to the preivous problem is in the `universe.sql` file. By using `psql -U postgres < universe.sql`, the database can be rebuilt so as to check that it aggrees with the specifications.
