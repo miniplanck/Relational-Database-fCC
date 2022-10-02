@@ -22,4 +22,4 @@ https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-g
 
 ## Developed stack:
 
-<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50px" height="50px"></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres Logo" width="50px" height="50px"></a>&nbsp;&nbsp;
