@@ -19,3 +19,7 @@ https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-da
 - [Number Guessing Game](
 https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
 ).
+
+## Developed stack:
+
+<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50px" height="50px"></a>&nbsp;&nbsp;
