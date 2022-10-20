@@ -17,5 +17,3 @@ Regarding the second phase of the project, another script, `queries.sh`, outputs
 ### Solution:
 
 For the first part, check `insert-data.sh`; as for the remaining, `queries-sh` should be considered.
-
-### Solution breakdown:
